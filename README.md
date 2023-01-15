@@ -7,4 +7,4 @@
 - 💬 Ask me about AI, Web Development, App Development, Hackathons, High School, Graph Algorithms, Research Projects
 - 📫 How to reach me: sohamgupta21@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once superglued my eye shut. Turns out that hot water solved the problem (after a bit of panicking :))
+- ⚡ Fun fact: I once superglued my eye shut. Turns out that hot water solved the problem (after a bit of panic :))
