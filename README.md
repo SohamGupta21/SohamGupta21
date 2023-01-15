@@ -1,7 +1,5 @@
 ### Hi, I'm Soham 👋
 
-**SohamGupta21/SohamGupta21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on launching FORM, an AI-powered basketball application that helps players improve their jumpshot by using computer vision.
 - 🌱 I’m currently learning Artificial Intelligence and Computer Vision, specifically with the iOS framework. I also am learning graph theory and algorithms.
 - 👯 I’m looking to collaborate on hackathons!!! I love to spend weekends working on coding projects, feel free to contact me!
