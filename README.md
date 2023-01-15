@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once superglued my eye shut. Turns out that hot water solved the problem (after a bit of panic :))
 
-Most of my current projects aren't using Github to manage the codebase, but I promise I am still very active so I would love to chat and collaborate!
+Most of my current projects aren't using Github to manage the codebase, but I am still very active! Feel free to reach out so we can chat and collaborate!
