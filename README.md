@@ -1,6 +1,6 @@
 ### Hi, I'm Soham 👋
 
-- 🔭 I’m currently working on launching FORM, an AI-powered basketball application that helps players improve their jumpshot by using computer vision.
+- 🔭 I’m currently working on launching FORM to the app store, an AI-powered basketball application that helps players improve their jumpshot by using computer vision.
 - 🌱 I’m currently learning Artificial Intelligence and Computer Vision, specifically with the iOS framework. I also am learning graph theory and algorithms.
 - 👯 I’m looking to collaborate on hackathons!!! I love to spend weekends working on coding projects, feel free to contact me!
 - 🤔 I’m looking for help with digital music production, I would love to explore the field much more.
