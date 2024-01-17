@@ -1,6 +1,6 @@
-# [Soham Gupta]
+# Soham Gupta
 
-Hello there! 👋 I'm [Soham Gupta], a [Computer Science and Statistics student at Harvard College] from the [Chicagoland area].
+Hello there! 👋 I'm Soham Gupta, a Computer Science and Statistics student at Harvard College from the Chicagoland area.
 
 ## About Me
 
