@@ -1,12 +1,27 @@
-### Hi, I'm Soham Gupta👋
+# [Soham Gupta]
 
-- 🔭 I’m currently working on launching FORM, an AI-powered basketball application that helps players improve their jumpshot by using computer vision. I built the app in Swift and used the CoreML framework to build an action classification model. I am also part of a research team at UIUC.
-- 🌱 Along with, Artificial Intelligence and Computer Vision, I’m currently learning graph theory and algorithms in Python.
-- 👯 I’m looking to collaborate on hackathons!!! I love to spend weekends working on coding projects, feel free to contact me!
-- 🤔 I’m looking for help with digital music production, specifically I'm looking to familiarize myself with FLStudio.
-- 💬 Ask me about AI, Web Development, App Development, Hackathons, High School, Graph Algorithms, and Research Projects
-- 📫 How to reach me: sohamgupta21@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I once superglued my eye shut. Turns out that hot water solved the problem (after a bit of panic :))
+Hello there! 👋 I'm [Soham Gupta], a [Computer Science and Statistics student at Harvard College] from the [Chicagoland area].
 
-Most of my current projects aren't using Github to manage the codebase, but I am still very active! Feel free to reach out so we can chat and collaborate!
+## About Me
+
+I love to use technology to solve problems or answer questions that I am curious about. I'm passionate about applying computer science to sports and finance.
+
+## Skills
+
+Python, Java, C++, JavaScript, Swift, R
+
+Django, Flask, SwiftUI, Pandas, Numpy, Sci-kit Learn, Tensorflow, CoreML, JavaFX
+
+Firebase, MongoDB, SQL
+
+## Projects
+
+Highlight some of the projects you've worked on. Provide links to the repositories or live demos.
+
+## Contact
+
+- GitHub: [Your GitHub Profile](https://github.com/SohamGupta21)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/soham-gupta-209a6b219)
+- Email: sohamgupta@college.harvard.edu
+
+I'd love to speak with you and collaborate on projects, feel free to reach out!
