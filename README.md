@@ -20,8 +20,7 @@ Highlight some of the projects you've worked on. Provide links to the repositori
 
 ## Contact
 
-- GitHub: [Your GitHub Profile](https://github.com/SohamGupta21)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/soham-gupta-209a6b219)
+- LinkedIn: https://linkedin.com/in/soham-gupta-209a6b219
 - Email: sohamgupta@college.harvard.edu
 
 I'd love to speak with you and collaborate on projects, feel free to reach out!
